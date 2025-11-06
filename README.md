@@ -46,8 +46,6 @@ I'm a DevOps Engineer passionate about leveraging cloud technologies and automat
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=iam-mdthalha&theme=tokyonight" />
-
 ---
 
 ### 📫 Let's Connect!
